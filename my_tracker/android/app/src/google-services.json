@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556925802925",
+    "project_id": "budget-tracker-bbb82",
+    "storage_bucket": "budget-tracker-bbb82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556925802925:android:5e136641b74ca52a27a924",
+        "android_client_info": {
+          "package_name": "com.example.my_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556925802925-025rr3n52cm8qd59gai6bolt4hqreuks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO-ZMBrGWbuhyuqbm3bTGKYS7stTCxvIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556925802925-025rr3n52cm8qd59gai6bolt4hqreuks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
